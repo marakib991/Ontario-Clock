@@ -1,0 +1,12 @@
+body{
+  text-align: center;
+  padding-top: 10rem;
+  background-color: aquamarine;
+}
+
+div{
+  background-color: aqua;
+  padding:4px;
+  margin: 10px 300px;
+  text-align: center;
+}
